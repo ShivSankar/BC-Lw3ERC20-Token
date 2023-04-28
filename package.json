@@ -1,0 +1,14 @@
+{
+  "name": "bc-lw3erc20-token",
+  "version": "1.0.0",
+  "description": "Create own ERC20 standard token LW3Token",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.3"
+  }
+}
